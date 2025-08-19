@@ -5,16 +5,16 @@ publish_to: "none"
 version: 1.0.0
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.7.0 <3.35.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.1
-  adobe_xd: ^0.1.4
-  flutter_svg: ^0.17.0
-  random_string: ^2.0.1
-  bitcoin_flutter: ^2.0.1
+  http: ^1.5.0
+  adobe_xd: ^2.0.1
+  flutter_svg: ^2.2.0
+  random_string: ^2.3.1
+  bitcoin_flutter: ^2.0.2
 
 dev_dependencies:
   flutter_test:
